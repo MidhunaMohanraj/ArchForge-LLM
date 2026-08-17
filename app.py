@@ -8,7 +8,7 @@ from data import (
 st.set_page_config(page_title="ArchForge — Build a Custom LLM", page_icon="🛠️", layout="wide")
 
 # ---------------------------------------------------------------------------
-# Global state
+# Global state 
 # ---------------------------------------------------------------------------
 DEFAULTS = {
     "step": 1,
