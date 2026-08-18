@@ -12,7 +12,7 @@ st.set_page_config(page_title="ArchForge — Build a Custom LLM", page_icon="�
 # ---------------------------------------------------------------------------
 DEFAULTS = {
     "step": 1,
-    "dataset": None,
+    "dataset": None,  
     "task_type": None,
     "deployment": None,
     "vram_choice": "Not sure — recommend for me",
