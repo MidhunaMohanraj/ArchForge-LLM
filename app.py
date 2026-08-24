@@ -48,8 +48,6 @@ def progress_bar():
                 st.markdown(f"⬜ {i}. {name}")
     st.progress((st.session_state.step - 1) / (len(STEP_NAMES) - 1))
     st.divider()
-
-
 st.title("🛠️ ArchForge — Custom LLM Builder")
 st.caption("Prototype wizard · GUI-based, no chat interface · dev-team internal tool")
 progress_bar()
