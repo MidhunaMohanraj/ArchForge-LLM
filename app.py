@@ -20,7 +20,7 @@ DEFAULTS = {
     "selected_model": None,   
     "ft_method": "lora",
     "epochs": 3,
-    "batch_size": 4,
+    "batch_size": 4, 
     "lr_exp": -4,
     "val_split": 15,
     "pipeline": None,
