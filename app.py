@@ -18,7 +18,7 @@ DEFAULTS = {
     "style_slider": 50,
     "priority": "Balanced",
     "selected_model": None,   
-    "ft_method": "lora",
+    "ft_method": "lora", 
     "epochs": 3,
     "batch_size": 4, 
     "lr_exp": -4,
