@@ -15,7 +15,7 @@ DEFAULTS = {
     "deployment": None,
     "vram_choice": "Not sure — recommend for me",
     "style_slider": 50,
-    "priority": "Balanced",
+    "priority": "Balanced", 
     "selected_model": None,   
     "ft_method": "lora", 
     "epochs": 3,
