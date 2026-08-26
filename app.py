@@ -5,7 +5,6 @@ from data import (
     FINE_TUNE_METHODS, PIPELINES, NEXT_STEPS,
 )
 st.set_page_config(page_title="ArchForge — Build a Custom LLM", page_icon="🛠️", layout="wide")
-
 # ---------------------------------------------------------------------------
 # Global state 
 # ---------------------------------------------------------------------------
