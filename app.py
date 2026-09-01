@@ -12,7 +12,7 @@ DEFAULTS = {
     "step": 1, 
     "dataset": None,  
     "task_type": None, 
-    "deployment": None,
+    "deployment": None, 
     "vram_choice": "Not sure — recommend for me",
     "style_slider": 50,
     "priority": "Balanced", 
