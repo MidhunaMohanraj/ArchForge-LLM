@@ -8,7 +8,7 @@ st.set_page_config(page_title="ArchForge â€” Build a Custom LLM", page_icon="ðŸ›
 # ---------------------------------------------------------------------------
 # Global state   
 # ---------------------------------------------------------------------------
-DEFAULTS = {
+DEFAULTS = {  
     "step": 1, 
     "dataset": None,  
     "task_type": None, 
